@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sip-app:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="sipapp.war">
+      <element id="artifact" artifact-name="sip-app:war exploded" />
+    </root>
+  </artifact>
+</component>
